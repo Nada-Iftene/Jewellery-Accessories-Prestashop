@@ -1,0 +1,70 @@
+.wp-editor-tabs {
+  float: right;
+}
+.tmce-active .quicktags-toolbar {
+  display: none;
+}
+.elementor-control-type-wysiwyg .wp-switch-editor {
+  border: none;
+  color: 
+  #6d7882;
+  font-size: 10px;
+  padding: 3px 9px 4px;
+  -webkit-border-radius: 3px 3px 0 0;
+  border-radius: 3px 3px 0 0;
+}
+.wp-switch-editor {
+  float: left;
+  box-sizing: content-box;
+  position: relative;
+  top: 1px;
+  background: #ebebeb;
+  color: #666;
+  cursor: pointer;
+  font-size: 13px;
+  line-height: 1.46153846;
+  height: 20px;
+  margin: 5px 0 0 5px;
+  padding: 3px 8px 4px;
+  border: 1px solid #e5e5e5;
+}
+.elementor-control-type-wysiwyg .tmce-active .switch-html {
+  background-color: 
+  transparent;
+}
+.elementor-panel {
+  font-family: Roboto,Arial,Helvetica,Verdana,sans-serif;
+  font-size: 13px;
+}
+.elementor-control .elementor-control-content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+.elementor-label-block > .elementor-control-content > .elementor-control-field {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.elementor-control-field {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.wp-editor-tools {
+  position: relative;
+  z-index: 1;
+  background:#fff;
+  height: 30px;
+}

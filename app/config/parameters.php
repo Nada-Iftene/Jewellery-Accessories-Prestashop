@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'jewelery-web',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'M32y0Oan7xZZtQ3KkhkxSWdXDAjcBxQ5WLdg5yXiADipMoXa3CAPzgIt4N2CEu5x',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-09-15',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'VuuZDtIXhRbZkGky00twLWmKqZXRfCCiQ74NSn98zDnvdHJLHMMe1FJbwiOEGMTj',
+    'cookie_iv' => 'LxrEERHpQfsjjve2C2OM89vEOeSI3mOW',
+    'new_cookie_key' => 'def00000c489adc8901e848edfa31722342e3ea281cd519c7159c15854e92e4084ba3cb744ea9254c42ca238885b4c6c291316155a91ab42b5223d1846f084492c21ff17',
+  ),
+);

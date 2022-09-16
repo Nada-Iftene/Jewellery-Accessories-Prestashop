@@ -1,0 +1,207 @@
+name: shopkart_lite
+display_name: Shopkart Lite
+version: 1.5.0
+author:
+  name: "HiddenTechies Team"
+  email: "info@hiddenTechies.com"
+  url: "https://www.hiddentechies.com"
+
+meta:
+  compatibility:
+      from: 1.7.0.0
+      to: ~
+
+  available_layouts:
+    layout-full-width:
+      name: Full Width
+      description: No side columns, ideal for distraction-free pages such as product pages.
+    layout-both-columns:
+      name: Three Columns
+      description: One large central column and 2 side columns.
+    layout-left-column:
+      name: Two Columns, small left column
+      description: Two columns with a small left column
+    layout-right-column:
+      name: Two Columns, small right column
+      description: Two columns with a small right column
+
+assets:
+  # If you're using this theme as child and you want to load
+  # the parent theme assets, uncomment this line.
+#  use_parent_assets: true
+
+  # The following lines are showing how to load assets in your page
+  # Uncomment and change value to start loading css or js files
+#  css:
+#    all:
+#      - id: custom-lib-style
+#        path: assets/css/custom-lib.css
+#    product:
+#      - id: product-style
+#        path: assets/css/product.css
+#        media: all
+#        priority: 200
+#  js:
+#    cart:
+#      - id: cat-extra-lib
+#        path: assets/js/cart-lib.js
+    css:
+     all:
+      - id: font-awesome-min-css
+        path: assets/css/font-awesome.min.css
+      - id: owl-carousel-css
+        path: assets/css/owl.carousel.css
+      - id: owl-theme-css
+        path: assets/css/owl.theme.css
+      - id: owl-transitions-css
+        path: assets/css/owl.transitions.css
+    js:
+     all:
+       - id: owl-carousel-js
+         path: assets/js/owl.carousel.js
+         priority: 700
+         position: bottom
+       - id: parallax-background-js
+         path: assets/js/parallax-background.js
+         priority: 620
+         position: bottom
+           
+global_settings:
+  configuration:
+    PS_IMAGE_QUALITY: png
+  modules:
+   to_enable:
+     - ps_linklist
+     - ps_newproducts
+     - ps_socialfollow
+     - ps_imageslider
+     - ps_featuredproducts
+   to_disable:
+     - ps_banner
+     - ps_customtext
+  hooks:
+    custom_hooks:
+      - name: displayTopAccountLink
+        title: displayTopAccountLink
+        description: Display Content after the header-top hook
+      - name: displayHomeTop1
+        title: displayHomeTop1
+        description: Display Content on top of 1 home page hook
+      - name: displayHomeTop2
+        title: displayHomeTop2
+        description: Display Content on top of 2 home page hook
+      - name: displayHomeTop3
+        title: displayHomeTop3
+        description: Display Content on top of 3 home page hook
+      - name: displayHomeBottom1
+        title: displayHomeBottom1
+        description: Display Content on bottom 1 of home page hook
+      - name: displayHomeBottom2
+        title: displayHomeBottom2
+        description: Display Content on bottom 2 of home page hook
+      - name: displayHomeBottom3
+        title: displayHomeBottom3
+        description: Display Content on bottom 3 of home page hook
+    modules_to_hook:
+      Header:
+      displayHeader:
+        - ht_scrolltop
+        - ps_shoppingcart
+      displayBanner:
+      displayNav1:
+        - ps_languageselector
+        - ps_currencyselector
+      displayNav2:
+        - ps_customersignin
+        - ps_contactinfo
+      displayHtTopMenu:
+        - ps_mainmenu
+      displayTopAccountLink:
+      displayTop:
+        - ps_shoppingcart
+        - ps_searchbar
+      displayRightColumn:
+      displayHomeTop1:
+        - ps_imageslider
+      displayHomeTop2:
+        - ps_featuredproducts
+      displayHomeTop3:
+        - ht_staticblocks
+      displayHome:
+      displayHomeBottom1:
+        - ps_newproducts
+      displayHomeBottom2:
+        - ht_staticblocks
+      displayHomeBottom3:
+        - ht_staticblocks
+        - ht_brandlist
+      displayFooterBefore:
+      displayFooter:
+        - ht_staticblocks
+        - ps_linklist
+        - ps_emailsubscription
+        - ht_googleanalytics
+        - ht_scrolltop
+      displayLeftColumn:
+        - ps_categorytree
+        - ps_facetedsearch
+      displayCategoryBottom:
+      displayFooterProduct:
+      displaySearch:
+        - ps_searchbar
+      displayReassurance:
+      displayProductAdditionalInfo:
+        - ps_sharebuttons
+      displayOrderConfirmation2:
+        - ps_featuredproducts
+      displayCrossSellingShoppingCart:
+        - ps_featuredproducts
+
+  image_types:
+    cart_default:
+      width: 125
+      height: 148
+      scope: [products]
+    small_default:
+      width: 98
+      height: 116
+      scope: [products, categories, manufacturers, suppliers]
+    medium_default:
+      width: 452
+      height: 536
+      scope: [products, manufacturers, suppliers]
+    home_default:
+      width: 350
+      height: 415
+      scope: [products]
+    large_default:
+      width: 513
+      height: 609
+      scope: [products, manufacturers, suppliers]
+    category_default:
+      width: 825
+      height: 180
+      scope: [categories]
+    stores_default:
+      width: 170
+      height: 115
+      scope: [stores]
+
+theme_settings:
+  default_layout: layout-full-width
+  layouts:
+    category: layout-left-column
+    best-sales: layout-left-column
+    new-products: layout-left-column
+    prices-drop: layout-left-column
+    contact: layout-left-column
+
+dependencies:
+  modules:
+    - ps_newproducts
+    - ps_socialfollow
+    - ps_imageslider
+    - ht_staticblocks
+    - ht_brandlist
+    - ht_scrolltop
+    - ht_googleanalytics

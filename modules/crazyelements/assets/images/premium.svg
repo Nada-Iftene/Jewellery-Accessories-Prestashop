@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Capa_1"
+   enable-background="new 0 0 512 512"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   sodipodi:docname="premium.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32">
+    <linearGradient
+       gradientUnits="objectBoundingBox"
+       y2="0.013"
+       x2="0.031"
+       y1="1"
+       x1="0.991"
+       id="linear-gradient">
+      <stop
+         id="stop195"
+         stop-color="#2e2975"
+         offset="0" />
+      <stop
+         id="stop197"
+         stop-color="#b06ab3"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient237"
+       gradientUnits="userSpaceOnUse"
+       x1="450.8952"
+       y1="454.99011"
+       x2="14.104693"
+       y2="5.9148715"
+       gradientTransform="scale(1.0066153,0.99342819)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient239"
+       gradientUnits="userSpaceOnUse"
+       x1="450.8952"
+       y1="454.99011"
+       x2="14.104693"
+       y2="5.9148715"
+       gradientTransform="scale(1.0066153,0.99342819)" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1874"
+     inkscape:window-height="1016"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-690.98305"
+     inkscape:cy="229.96609"
+     inkscape:window-x="46"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1" />
+  <g
+     id="g27"
+     style="fill:#6a4792;fill-opacity:1">
+    <path
+       d="m384.101 131.95-37.519 85.975-90.582 20.224-94.05-23.1-34.051-83.099z"
+       id="path2"
+       fill="#8df4e6"
+       style="fill:#6a4792;fill-opacity:1" />
+    <path
+       d="m256 238.149 90.582-20.224 37.519-85.975h-128.101z"
+       id="path4"
+       fill="#7adfe3"
+       style="fill:#6a4792;fill-opacity:1" />
+    <g
+       id="Premium_1_"
+       style="fill:#6a4792;fill-opacity:1">
+      <g
+         id="g8"
+         style="fill:#6a4792;fill-opacity:1">
+        <path
+           d="m256 238.149 30 115.951-30 115.95-198.9-231.901 92.861-30z"
+           id="path6"
+           fill="#8df4e6"
+           style="fill:#6a4792;fill-opacity:1" />
+      </g>
+      <g
+         id="g18"
+         style="fill:#6a4792;fill-opacity:1">
+        <path
+           d="m482 71.95v-30h-30v30h-30v30h30v30h30v-30h30v-30z"
+           id="path10"
+           fill="#d8e0f0"
+           style="fill:#6a4792;fill-opacity:1" />
+        <path
+           d="m60 371.95h-30v30h-30v30h30v30h30v-30h30v-30h-30z"
+           id="path12"
+           fill="#f3f5f9"
+           style="fill:#6a4792;fill-opacity:1" />
+        <path
+           d="m0 281.95h30v30h-30z"
+           id="path14"
+           fill="#f3f5f9"
+           style="fill:#6a4792;fill-opacity:1" />
+        <path
+           d="m482 191.95h30v30h-30z"
+           id="path16"
+           fill="#d8e0f0"
+           style="fill:#6a4792;fill-opacity:1" />
+      </g>
+    </g>
+    <path
+       d="m454.9 238.149-198.9 231.901v-231.901l108.713-30z"
+       id="path21"
+       fill="#7adfe3"
+       style="fill:#6a4792;fill-opacity:1" />
+    <path
+       d="m454.9 238.149h-198.9l128.101-106.199z"
+       id="path23"
+       fill="#68c9e0"
+       style="fill:#6a4792;fill-opacity:1" />
+    <path
+       d="m256 238.149h-198.9l70.799-106.199z"
+       id="path25"
+       fill="#7adfe3"
+       style="fill:#6a4792;fill-opacity:1" />
+  </g>
+  <g
+     transform="matrix(0.29455992,0,0,0.30647203,-58.201667,122.51133)"
+     data-name="Group 8"
+     id="Group_8">
+    <g
+       data-name="Group 13"
+       id="Group_13">
+      <g
+         transform="translate(863,205)"
+         data-name="Rectangle 7"
+         id="Rectangle_7"
+         style="fill:url(#linearGradient239);stroke:#707070;stroke-width:1">
+        <rect
+           id="rect202"
+           rx="26"
+           height="452"
+           width="458"
+           x="0"
+           y="0"
+           style="fill:url(#linearGradient237);stroke:none" />
+        <rect
+           id="rect204"
+           rx="25.5"
+           height="451"
+           width="457"
+           y="0.5"
+           x="0.5"
+           style="fill:none" />
+      </g>
+      <g
+         transform="translate(610,55.361)"
+         data-name="Group 3"
+         id="Group_3">
+        <g
+           transform="translate(491.561,307.639)"
+           data-name="Group 1"
+           id="Group_1">
+          <rect
+             transform="translate(0.439)"
+             rx="6"
+             height="144"
+             width="23"
+             data-name="Rectangle 2"
+             id="Rectangle_2"
+             x="0"
+             y="0"
+             style="fill:#ffffff" />
+          <rect
+             transform="rotate(90,59.2195,59.2195)"
+             rx="6"
+             height="81"
+             width="23"
+             data-name="Rectangle 3"
+             id="Rectangle_3"
+             x="0"
+             y="0"
+             style="fill:#ffffff" />
+          <rect
+             transform="rotate(90,20.2195,80.2195)"
+             rx="6"
+             height="81"
+             width="23"
+             data-name="Rectangle 6"
+             id="Rectangle_6"
+             x="0"
+             y="0"
+             style="fill:#ffffff" />
+          <rect
+             transform="rotate(90,-0.7805,119.2195)"
+             rx="6"
+             height="81"
+             width="23"
+             data-name="Rectangle 5"
+             id="Rectangle_5"
+             x="0"
+             y="0"
+             style="fill:#ffffff" />
+        </g>
+        <path
+           transform="translate(336,449.639)"
+           d="m 85.535,-121.922 a 53.04,53.04 0 0 0 -19.459,3.48 42.178,42.178 0 0 0 -15.293,10.125 46.446,46.446 0 0 0 -9.967,16.4 64.41,64.41 0 0 0 -3.586,22.308 66.818,66.818 0 0 0 3.27,21.884 42.15,42.15 0 0 0 9.387,15.768 39.05,39.05 0 0 0 14.924,9.545 58,58 0 0 0 19.989,3.212 108.769,108.769 0 0 0 16.348,-1.266 93.9,93.9 0 0 0 15.609,-3.691 V -1.9 A 118.775,118.775 0 0 1 100.831,1.422 125.967,125.967 0 0 1 83.109,2.637 q -17.93,0 -31.535,-5.115 a 61.5,61.5 0 0 1 -22.728,-14.45 60.059,60.059 0 0 1 -13.711,-22.359 86.01,86.01 0 0 1 -4.588,-28.74 88.929,88.929 0 0 1 4.9,-29.953 69.686,69.686 0 0 1 14.133,-23.941 64.275,64.275 0 0 1 23.1,-15.926 q 13.869,-5.8 31.377,-5.906 a 113.521,113.521 0 0 1 16.98,1.213 82.3,82.3 0 0 1 14.449,3.428 v 21.938 a 102.147,102.147 0 0 0 -15.715,-3.691 99.213,99.213 0 0 0 -14.236,-1.057 z"
+           data-name="Path 4"
+           id="Path_4"
+           inkscape:connector-curvature="0"
+           style="fill:#fafafa;stroke:#fafafa;stroke-width:1" />
+      </g>
+    </g>
+  </g>
+</svg>

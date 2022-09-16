@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ht_scrolltop</name>
+    <displayName><![CDATA[Hiddentechies Scroll To Top]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[This module allows the visitor to easily scroll back to the top of the page, with fully customizable options and image.]]></description>
+    <author><![CDATA[Hiddentechies]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries></limited_countries>
+</module>
